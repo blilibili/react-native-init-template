@@ -1,0 +1,6 @@
+module Pods_myPlainApp {
+  umbrella header "Pods-myPlainApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

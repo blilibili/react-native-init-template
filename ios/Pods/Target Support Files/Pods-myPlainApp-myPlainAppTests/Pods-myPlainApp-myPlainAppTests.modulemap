@@ -1,0 +1,6 @@
+module Pods_myPlainApp_myPlainAppTests {
+  umbrella header "Pods-myPlainApp-myPlainAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
